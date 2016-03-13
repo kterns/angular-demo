@@ -1,0 +1,12 @@
+
+<div class="container">
+  <h3>Web Developer Resources<span class="small text-muted"> Demo project by Kyle Terns, developed with Jade, SASS, AngularJS, and Bootstrap</span></h3>
+  <form class="form-inline">
+    <div class="form-group">
+      <input type="textbox" placeholder="Search Links..." ng-model="rsFilter" autofocus="autofocus" class="form-control"/>
+    </div>
+    <input type="reset" value="Clear" ng-click="rsFilter = undefined" class="btn btn-default btn-primary"/>
+  </form>
+  <hr/>
+  <div role="tabpanel" ng-include="'templates/tabs/tabs.html'"></div>
+</div>

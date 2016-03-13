@@ -1,0 +1,45 @@
+/* Global styling */
+a, img {
+  display: inline-block; }
+
+a:hover {
+  text-decoration: none; }
+
+/* Footer styling */
+@media (max-width: 770px) {
+  .nav-tabs {
+    display: none; } }
+
+@media (max-width: 600px) {
+  .col-xxs-12 {
+    width: 100%; } }
+
+.no-wrap {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+/* Resource (site) buttons */
+.resource .rs-btn {
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  width: 100%;
+  text-align: left; }
+  .resource .rs-btn img.rs-icon {
+    width: 32px; }
+    @media (max-width: 400px) {
+      .resource .rs-btn img.rs-icon {
+        width: 16px; } }
+
+/* Navigation */
+/* Tab bar */
+.nav-tabs {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; }
+  .nav-tabs li:hover {
+    cursor: pointer; }
+
+.tab-content {
+  padding-top: 20px; }
