@@ -38,6 +38,7 @@
     {"ResourceId": "26", "Name":"jQuery UI","Title":"Reference","URL":"http://jqueryui.com/", "Image":"http://jqueryui.com/favicon.ico","Category":3},
     {"ResourceId": "27", "Name":"Font Awesome","Title":"Icons","URL":"https://fortawesome.github.io/Font-Awesome/icons/", "Image":"https://fortawesome.github.io/Font-Awesome/assets/ico/favicon.ico","Category":1},
     {"ResourceId": "28", "Name":"GulpJS","Title":"Docs","URL":"https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md", "Image":"https://assets-cdn.github.com/favicon.ico","Category":6},
-    {"ResourceId": "29", "Name":"Google Fonts","Title":"Free Fonts","URL":"https://www.google.com/fonts", "Image":"https://www.google.com/fonts/fonts-64.png","Category":1}
+    {"ResourceId": "29", "Name":"Google Fonts","Title":"Free Fonts","URL":"https://www.google.com/fonts", "Image":"https://www.google.com/fonts/fonts-64.png","Category":1},
+    {"ResourceId": "30", "Name":"AngularJS Hub","Title":"Examples","URL":"http://www.angularjshub.com/examples/", "Image":"assets/images/no-favicon.ico","Category":3}
   ]
 }
